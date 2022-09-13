@@ -1,5 +1,5 @@
-# task1
-2. About objects and its internal representation in Javascrip.
+#  objects and its internal representation in Javascript
+2. About objects and its internal representation in Javascript.
 
 :- Objects, in JavaScript, is it’s most important data-type and forms the building blocks for modern JavaScript. 
 These objects are quite different from JavaScript’s primitive data-types(Number, String, Boolean, null, undefined and symbol)
